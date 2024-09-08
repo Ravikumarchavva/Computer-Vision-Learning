@@ -1,0 +1,5 @@
+.env
+
+/cnn/weightsandbiases/logs
+/cnn/weightsandbiases/models
+/cnn/weightsandbiases/wandb
