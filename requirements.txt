@@ -1,0 +1,10 @@
+pydot
+tensorflow-datasets
+tensorflow-probability
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+albumentations
+easyocr
+polars
